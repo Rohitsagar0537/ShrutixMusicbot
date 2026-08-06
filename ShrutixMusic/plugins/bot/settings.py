@@ -189,12 +189,12 @@ async def send_repo(_, message: Message):
         caption=(
             "<b>✨ ʜᴇʏ ᴅᴇᴀʀ, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ᴏꜰꜰɪᴄɪᴀʟ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴏꜰ ᴛʜɪꜱ ʙᴏᴛ ✨</b>\n\n"
             "🔗 ᴅᴏɴ'ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ ꜱᴛᴀʀ 🌟 ᴀɴᴅ ꜰᴏʟʟᴏᴡ!\n\n"
-            "🧡 ᴄʀᴇᴅɪᴛꜱ : <a href='https://t.me/ShrutiBots'>@ShrutiBots</a>"
+            "🧡 ᴄꝛєᴅɪᴛs : <a href='https://t.me/bot_x_support'>˹𝐁𝐎𝐓 ✘ 𝐒𝐔𝐏𝐏𝐎𝐑𝐓˼</a>"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("🎵 Music + Management Bot Repo", url="https://github.com/NoxxOP/ShrutiMusic")],
-                [InlineKeyboardButton("🎧 Only Music Bot Repo", url="https://github.com/NoxxOP/ShrutixMusic")]
+                [InlineKeyboardButton("σᴡηєꝛ", url="https://t.me/FZ_CREATOR")],
+                [InlineKeyboardButton("υᴘᴅᴧᴛє", url="https://t.me/BOT_X_SUPPORT")]
             ]
         ),
         supports_streaming=True,
